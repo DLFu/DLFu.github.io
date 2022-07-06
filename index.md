@@ -41,6 +41,10 @@
 6. Peng Xue#, __Yu Fu__, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Lung Respiratory Motion Estimation Based on Fast Kalman Filtering and 4D CT Image Registration,” __*IEEE Journal of Biomedical and Health Informatics*__, vol.39, Oct. 2020. __(SCI: IF=5.223, JCR Q1)__ ( DOI: doi.org/10.1109/JBHI.2020.3030071)
 7. Zhili Zhang#, Taohui Xiao#, __Yu Fu#__, Yuqiang Gao#, Meirong Ren, Wentao Cui*, Enqing Dong*, “3D Multi-Resolution Attention Capsule Network for Diagnosing Multi-Pathological Types of Pulmonary Nodules,” __*International Journal of Imaging Systems and Technology*__, vol.31, Online, 06 August 2021. __(SCI: IF=2.03, JCR Q3)__ ( DOI: doi.org/10.1002/ima.22726)
 
+### 在投文章
+1. __Yu Fu#__, PKA2-Net: Prior Knowledge-based Active Attention Network for Accurate Pneumonia Diagnosis on Chest X-ray Images.
+2. __Yu Fu#__, Qualitative Analysis of PD-L1 Expression in Non-Small Cell Lung Cancer Based on Chest CT Radiomics.
+
 ### 发明专利
 1. 基于人工智能融合多模态信息构建肺结节良恶性的多种病理类型的诊断模型
 2. 基于三维深度学习网络预测肺结节良恶性的多病理类型的分类方法
