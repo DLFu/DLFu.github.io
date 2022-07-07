@@ -44,6 +44,7 @@
 ### 在投文章
 1. __Yu Fu#__, PKA2-Net: Prior Knowledge-based Active Attention Network for Accurate Pneumonia Diagnosis on Chest X-ray Images.
 2. __Yu Fu#__, Qualitative Analysis of PD-L1 Expression in Non-Small Cell Lung Cancer Based on Chest CT Radiomics.
+3. __Yu Fu#__, Anti-CGAN: Improving the Diagnosis of Pulmonary Nodules by Adding Uncertainty Regression.
 
 ### 发明专利
 1. 基于人工智能融合多模态信息构建肺结节良恶性的多种病理类型的诊断模型
