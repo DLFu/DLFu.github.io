@@ -33,7 +33,7 @@
 1. 针对小样本不均衡数据集肺结节多种病理类型智能诊断的论文被顶级期刊 __*IEEE JBHI*__ 接受！
 
 ### 发表论文
-1. __Yu Fu#__, Peng Xue, Taohui Xiao, Zhili Zhang, Youren Zhang, Enqing Dong*, “Semi-Supervised Adversarial Learning for Improving the Diagnosis of Pulmonary Nodules,” __*IEEE Journal of Biomedical and Health Informatics*__, Online, July 2021. __(SCI: IF=7.021, JCR Q1)__
+1. __Yu Fu#__, Peng Xue, Taohui Xiao, Zhili Zhang, Youren Zhang, Enqing Dong*, “Semi-Supervised Adversarial Learning for Improving the Diagnosis of Pulmonary Nodules,” __*IEEE Journal of Biomedical and Health Informatics*__, Online, October 2022. __(SCI: IF=7.021, JCR Q1)__
 2. __Yu Fu#__, Peng Xue, Enqing Dong*, “Densely Connected Attention Network for Diagnosing COVID-19 Based on Chest CT,” __*Computers in Biology and Medicine*__, Volume 137, September 2021. __(SCI: IF=4.589, JCR Q1)__ (DOI:10.1016/j.compbiomed.2021.104857)
 3. __Yu Fu#__, Peng Xue#, Ning Li#, Peng Zhao, Zhuodong Xu, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Fusion of 3D Lung CT and Serum Biomarkers for Diagnosis of Multiple Pathological Types on Pulmonary Nodules,” __*Computer Methods and Programs in Biomedicine*__, Volume 210, October 2021. __(SCI: IF=5.428, JCR Q1)__ (DOI: 10.1016/j.cmpb.2021.106381)
 4. __Yu Fu#__, Peng Xue#, Peng Zhao#, Ning Li, Zhuodong Xu, Huizhong Ji, Zhili Zhang, Wentao Cui*, Enqing Dong*, “3D multi-resolution deep learning model for diagnosis of multiple pathological types on pulmonary nodules” __*International Journal of Imaging Systems and Technology*__, vol.31, Online, 06 August 2021. __(SCI: IF=2.03, JCR Q3)__ ( DOI: 10.1002/ima.22642)
