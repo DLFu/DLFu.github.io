@@ -30,7 +30,7 @@
 - 2013-2017年 __北京化工大学--信息科学与技术学院--自动化__
 
 ### 最新消息
-1. 针对小样本不均衡数据集肺结节多种病理类型智能诊断的论文被顶级期刊 __*IEEE JBHI*__ 接受！
+1. 针对小样本不均衡数据集肺结节多种病理类型智能诊断的论文被顶级期刊 __*IEEE JBHI*__ 接受！ (2022年10月19日)
 
 ### 发表论文
 1. __Yu Fu#__, Peng Xue, Taohui Xiao, Zhili Zhang, Youren Zhang, Enqing Dong*, “Semi-Supervised Adversarial Learning for Improving the Diagnosis of Pulmonary Nodules,” __*IEEE Journal of Biomedical and Health Informatics*__, Online, October 2022. __(SCI: IF=7.021, JCR Q1)__ (DOI:10.1109/JBHI.2022.3216446)
