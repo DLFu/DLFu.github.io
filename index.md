@@ -30,24 +30,24 @@
 - 2013-2017年 __北京化工大学--信息科学与技术学院--自动化__
 
 ### 最新消息
-1. 针对小样本不均衡数据集肺结节多种病理类型智能诊断的论文被顶级期刊 __*IEEE JBHI*__ 接受！ (2022年10月19日)
+1. 针对免疫治疗的论文被国际期刊 __*Biomedical Signal Processing and Control*__ 接受！ (2023年3月5日)
 
 ### 发表论文
-1. __Yu Fu#__, Peng Xue, Taohui Xiao, Zhili Zhang, Youren Zhang, Enqing Dong*, “Semi-Supervised Adversarial Learning for Improving the Diagnosis of Pulmonary Nodules,” __*IEEE Journal of Biomedical and Health Informatics*__, Online, October 2022. __(SCI: IF=7.021, JCR Q1)__ (DOI:10.1109/JBHI.2022.3216446)
-2. __Yu Fu#__, Peng Xue, Enqing Dong*, “Densely Connected Attention Network for Diagnosing COVID-19 Based on Chest CT,” __*Computers in Biology and Medicine*__, Volume 137, September 2021. __(SCI: IF=6.698, JCR Q1)__ (DOI:10.1016/j.compbiomed.2021.104857)
-3. __Yu Fu#__, Peng Xue#, Ning Li#, Peng Zhao, Zhuodong Xu, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Fusion of 3D Lung CT and Serum Biomarkers for Diagnosis of Multiple Pathological Types on Pulmonary Nodules,” __*Computer Methods and Programs in Biomedicine*__, Volume 210, October 2021. __(SCI: IF=7.022, JCR Q1)__ (DOI: 10.1016/j.cmpb.2021.106381)
-4. __Yu Fu#__, Peng Xue#, Peng Zhao#, Ning Li, Zhuodong Xu, Huizhong Ji, Zhili Zhang, Wentao Cui*, Enqing Dong*, “3D multi-resolution deep learning model for diagnosis of multiple pathological types on pulmonary nodules” __*International Journal of Imaging Systems and Technology*__, vol.31, Online, 06 August 2021. __(SCI: IF=2.177, JCR Q3)__ ( DOI: 10.1002/ima.22642)
-5. __Yu Fu#__, Peng Xue#, Meirong Ren, Enqing Dong*, “Harmony Loss for Unbalanced Prediction,” __*IEEE Journal of Biomedical and Health Informatics*__, vol.26, Online, July 2021. __(SCI: IF=7.021, JCR Q1)__ ( DOI: 10.1109/JBHI.2021.3094578)
-6. __Yu Fu#__, Peng Xue#, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Deep Model with Siamese Network for Viable and Necrotic Tumor Regions Assessment in Osteosarcoma,” __*Medical Physics*__, vol.47(10):4895-4905,2020. __(SCI: IF=4.506, JCR Q1)__ ( DOI: doi.org/10.1002/mp.14397)
-7. __Yu Fu#__, Guoxiang Wang, Zhe An, Ting Dong, Zhifeng Gao*, “Automatic Colorization Based on Deep Learning,” International Symposium on Computational Intelligence and Industrial Applications, 2019. (EI)
-8. Peng Xue#, __Yu Fu#__, Jingyang Zhang, Lei Ma, Meirong Ren, Zhili Zhang, Enqing Dong*, “Effective lung ventilation estimation based on 4D CT image registration and supervoxels,” __*Biomedical Signal Processing and Control*__, vol.79, Online, 28 August 2022. __(SCI: IF=5.076, JCR Q1)__ ( DOI: doi.org/10.1016/j.bspc.2022.104074) __(共同一作)__
-9. Zhili Zhang#, Taohui Xiao#, __Yu Fu#__, Yuqiang Gao#, Meirong Ren, Wentao Cui*, Enqing Dong*, “3D Multi-Resolution Attention Capsule Network for Diagnosing Multi-Pathological Types of Pulmonary Nodules,” __*International Journal of Imaging Systems and Technology*__, vol.31, Online, 06 August 2021. __(SCI: IF=2.177, JCR Q3)__ ( DOI: doi.org/10.1002/ima.22726) __(共同一作)__
-10. Peng Xue#, __Yu Fu__, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Lung Respiratory Motion Estimation Based on Fast Kalman Filtering and 4D CT Image Registration,” __*IEEE Journal of Biomedical and Health Informatics*__, vol.39, Oct. 2020. __(SCI: IF=7.021, JCR Q1)__ ( DOI: doi.org/10.1109/JBHI.2020.3030071)
+1. __Yu Fu#__, Hong Zhang, Peng Xue, Meirong Ren, Taohui Xiao, Zhili Zhang, Yong Huang, Enqing Dong*, “Qualitative Analysis of PD-L1 Expression in Non-Small-Cell Lung Cancer Based on Chest CT Radiomics,” __*Biomedical Signal Processing and Control*__, Online, March 2023. __(SCI: IF=5.076, JCR Q1)__
+2. __Yu Fu#__, Peng Xue, Taohui Xiao, Zhili Zhang, Youren Zhang, Enqing Dong*, “Semi-Supervised Adversarial Learning for Improving the Diagnosis of Pulmonary Nodules,” __*IEEE Journal of Biomedical and Health Informatics*__, vol.27(1):109-120,2023. __(SCI: IF=7.021, JCR Q1)__ (DOI:10.1109/JBHI.2022.3216446)
+3. __Yu Fu#__, Peng Xue, Enqing Dong*, “Densely Connected Attention Network for Diagnosing COVID-19 Based on Chest CT,” __*Computers in Biology and Medicine*__, Volume 137, September 2021. __(SCI: IF=6.698, JCR Q1)__ (DOI:10.1016/j.compbiomed.2021.104857)
+4. __Yu Fu#__, Peng Xue#, Ning Li#, Peng Zhao, Zhuodong Xu, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Fusion of 3D Lung CT and Serum Biomarkers for Diagnosis of Multiple Pathological Types on Pulmonary Nodules,” __*Computer Methods and Programs in Biomedicine*__, Volume 210, October 2021. __(SCI: IF=7.022, JCR Q1)__ (DOI: 10.1016/j.cmpb.2021.106381)
+5. __Yu Fu#__, Peng Xue#, Peng Zhao#, Ning Li, Zhuodong Xu, Huizhong Ji, Zhili Zhang, Wentao Cui*, Enqing Dong*, “3D multi-resolution deep learning model for diagnosis of multiple pathological types on pulmonary nodules” __*International Journal of Imaging Systems and Technology*__, vol.31, Online, 06 August 2021. __(SCI: IF=2.177, JCR Q3)__ ( DOI: 10.1002/ima.22642)
+6. __Yu Fu#__, Peng Xue#, Meirong Ren, Enqing Dong*, “Harmony Loss for Unbalanced Prediction,” __*IEEE Journal of Biomedical and Health Informatics*__, vol.26(2):828-83,2022. __(SCI: IF=7.021, JCR Q1)__ ( DOI: 10.1109/JBHI.2021.3094578)
+7. __Yu Fu#__, Peng Xue#, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Deep Model with Siamese Network for Viable and Necrotic Tumor Regions Assessment in Osteosarcoma,” __*Medical Physics*__, vol.47(10):4895-4905,2020. __(SCI: IF=4.506, JCR Q1)__ ( DOI: doi.org/10.1002/mp.14397)
+8. __Yu Fu#__, Guoxiang Wang, Zhe An, Ting Dong, Zhifeng Gao*, “Automatic Colorization Based on Deep Learning,” International Symposium on Computational Intelligence and Industrial Applications, 2019. (EI)
+9. Peng Xue#, __Yu Fu#__, Jingyang Zhang, Lei Ma, Meirong Ren, Zhili Zhang, Enqing Dong*, “Effective lung ventilation estimation based on 4D CT image registration and supervoxels,” __*Biomedical Signal Processing and Control*__, vol.79, Online, 28 August 2022. __(SCI: IF=5.076, JCR Q1)__ ( DOI: doi.org/10.1016/j.bspc.2022.104074) __(共同一作)__
+10. Zhili Zhang#, Taohui Xiao#, __Yu Fu#__, Yuqiang Gao#, Meirong Ren, Wentao Cui*, Enqing Dong*, “3D Multi-Resolution Attention Capsule Network for Diagnosing Multi-Pathological Types of Pulmonary Nodules,” __*International Journal of Imaging Systems and Technology*__, vol.31, Online, 06 August 2021. __(SCI: IF=2.177, JCR Q3)__ ( DOI: doi.org/10.1002/ima.22726) __(共同一作)__
+11. Peng Xue#, __Yu Fu__, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Lung Respiratory Motion Estimation Based on Fast Kalman Filtering and 4D CT Image Registration,” __*IEEE Journal of Biomedical and Health Informatics*__, vol.39, Oct. 2020. __(SCI: IF=7.021, JCR Q1)__ ( DOI: doi.org/10.1109/JBHI.2020.3030071)
 
 ### 在投文章
 1. __Yu Fu#__, PKA2-Net: Prior Knowledge-based Active Attention Network for Accurate Pneumonia Diagnosis on Chest X-ray Images.
-2. __Yu Fu#__, Qualitative Analysis of PD-L1 Expression in Non-Small Cell Lung Cancer Based on Chest CT Radiomics.
-3. __Yu Fu#__, Anti-CGAN: Improving the Diagnosis of Pulmonary Nodules by Adding Uncertainty Regression.
+2. __Yu Fu#__, Anti-CGAN: Improving the Diagnosis of Pulmonary Nodules by Adding Uncertainty Regression.
 
 ### 发明专利
 1. 基于人工智能融合多模态信息构建肺结节良恶性的多种病理类型的诊断模型
