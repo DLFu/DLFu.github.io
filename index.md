@@ -25,12 +25,12 @@
 ---
 
 ### 教育经历
-- 2019年至今 __山东大学--机电与信息工程学院--先进制造__
+- 2019-2023年 __山东大学--机电与信息工程学院--先进制造__
 - 2017-2019年 __北京理工大学--自动化学院--控制工程__
 - 2013-2017年 __北京化工大学--信息科学与技术学院--自动化__
 
 ### 最新消息
-1. 针对小儿肺炎智能诊断的论文被国际期刊 __*Biomedical Signal Processing and Control*__ 接受！ (2023年4月8日)
+1. 针对小儿肺炎智能诊断的论文被国际期刊 __*IEEE JBHI*__ 接受！ (2023年4月8日)
 
 ### 发表论文
 1. __Yu Fu#__, Peng Xue, Zhili Zhang, Enqing Dong*, “PKA2-Net: Prior Knowledge-based Attention Network for Accurate Pneumonia Diagnosis on Chest X-ray Image,” __*IEEE Journal of Biomedical and Health Informatics*__, April 2023. __(SCI: IF=7.021, JCR Q1)__
