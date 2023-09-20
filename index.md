@@ -6,10 +6,10 @@
       <p><b>学历：博士研究生</b></p>
       <p><b>生日：1994年1月6日</b></p>
       <p><b>籍贯：山东省潍坊市</b></p>
-      <p><b>邮箱：yufu_2020@yeah.net</b></p>
+      <p><b>邮箱：fuyu@ouc.edu.cn</b></p>
       <p><b>研究方向：图像处理与智能计算</b></p>
-      <p><b>单位：山东大学（威海）机电与信息工程学院</b></p>
-      <p><b>地址：山东省威海市环翠区文化西路180号</b></p>
+      <p><b>单位：中国海洋大学信息科学与工程学部</b></p>
+      <p><b>地址：山东省青岛市黄岛区三沙路1299号</b></p>
     </td>
     <td width="25%">
       <img src="/证件照1_x.jpg" width="100%">
@@ -47,8 +47,7 @@
 12. Peng Xue#, __Yu Fu__, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Lung Respiratory Motion Estimation Based on Fast Kalman Filtering and 4D CT Image Registration,” __*IEEE Journal of Biomedical and Health Informatics*__, vol.39, Oct. 2020. __(SCI: IF=7.021, JCR Q1)__ ( DOI: doi.org/10.1109/JBHI.2020.3030071)
 
 ### 在投文章
-1. __Yu Fu#__, PKA2-Net: Prior Knowledge-based Active Attention Network for Accurate Pneumonia Diagnosis on Chest X-ray Images.
-2. __Yu Fu#__, Anti-CGAN: Improving the Diagnosis of Pulmonary Nodules by Adding Uncertainty Regression.
+1. __Yu Fu#__, Anti-CGAN: Improving the Diagnosis of Pulmonary Nodules by Adding Uncertainty Regression.
 
 ### 发明专利
 1. 基于人工智能融合多模态信息构建肺结节良恶性的多种病理类型的诊断模型
