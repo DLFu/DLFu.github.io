@@ -12,7 +12,7 @@
       <p><b>地址：山东省青岛市黄岛区三沙路1299号</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照1_x.jpg" width="100%">
+      <img src="/海大主页1.jpg" width="100%">
     </td>
   </tr>
 </table>
