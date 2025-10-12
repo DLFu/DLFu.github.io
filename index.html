@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>傅宇 Fu Yu — 医学人工智能</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --primary:#0b4a78;
+    --muted:#6b7280;
+    --card-bg: #ffffff;
+    --page-bg:#f4f7fb;
+    --accent:#0a66c2;
+    --max-w: 1000px;
+  }
+  html,body{height:100%;margin:0;font-family:'Noto Sans SC',sans-serif;background:var(--page-bg);color:#222;}
+  a{color:var(--accent);text-decoration:none;}
+  .wrap{max-width:var(--max-w);margin:40px auto;padding:0 20px;}
+  .card{background:var(--card-bg);border-radius:14px;box-shadow:0 6px 22px rgba(12,30,50,0.06);overflow:hidden;}
+  .top{
+    display:flex;gap:30px;padding:36px 40px;background:linear-gradient(90deg,#eaf4ff, #ffffff);
+    flex-wrap:wrap;align-items:center;
+  }
+  .left{flex:1;min-width:240px;}
+  .name{font-size:34px;color:var(--primary);margin:0 0 8px 0;font-weight:700;letter-spacing:1px;}
+  .sub{font-size:15px;color:var(--muted);margin:0 0 16px 0;}
+  .meta p{margin:6px 0;font-size:15px;}
+  .meta b{color:#111;font-weight:600;}
+  .right{width:180px;flex-shrink:0;text-align:right;}
+  .avatar{width:160px;height:160px;border-radius:12px;object-fit:cover;border:6px solid rgba(255,255,255,0.6);box-shadow:0 6px 18px rgba(10,30,60,0.08);}
+  .content{padding:30px 44px 44px 44px;}
+  .lead{margin:0 0 18px 0;color:#1f2937;}
+  h2{color:var(--primary);margin:28px 0 12px 0;font-size:20px;border-left:5px solid var(--primary);padding-left:12px;}
+  ul,ol{margin:8px 0 0 0;padding-left:20px;}
+  li{margin:8px 0;color:#263238;line-height:1.6;}
+  .paper small{color:var(--muted);display:block;margin-top:6px;}
+  .two-col{display:flex;gap:30px;flex-wrap:wrap;}
+  .col{flex:1;min-width:260px;}
+  .footer{padding:18px 44px;border-top:1px solid #f0f3f7;color:var(--muted);font-size:14px;}
+  @media (max-width:760px){
+    .right{text-align:center;width:100%;}
+    .top{padding:20px;}
+    .content{padding:20px;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="card">
+    <div class="top">
+      <div class="left">
+        <h1 class="name">傅宇 &nbsp; <span style="font-size:18px;color:var(--muted);font-weight:600">Fu Yu</span></h1>
+        <p class="sub">讲师 中国海洋大学 信息科学与工程学部 · 研究方向 医学人工智能</p>
+        <div class="meta">
+          <p><b>学历：</b>博士研究生</p>
+          <p><b>生日：</b>1994年1月6日</p>
+          <p><b>籍贯：</b>山东省潍坊市</p>
+          <p><b>邮箱：</b><a href="mailto:fuyu@ouc.edu.cn">fuyu@ouc.edu.cn</a></p>
+          <p><b>研究方向：</b>医学人工智能（深度学习、医学影像处理、小样本与不均衡问题）</p>
+          <p><b>单位：</b>中国海洋大学信息科学与工程学部</p>
+          <p><b>地址：</b>山东省青岛市黄岛区三沙路1299号</p>
+        </div>
+      </div>
+
+      <div class="right">
+        <!-- 请把你的头像文件命名为 海大主页1.jpg 或修改为 avatar.jpg -->
+        <img class="avatar" src="海大主页1.jpg" alt="傅宇 头像">
+      </div>
+    </div>
+
+    <div class="content">
+      <p class="lead">博士毕业于山东大学，师从董恩清教授，目前为中国海洋大学信息科学与工程学部讲师。主要从事深度学习、医学影像处理等方面的科研工作，主攻方向为面向小样本及不均衡问题的医学影像分类方法研究。🌐 谷歌学术：
+        <a href="https://scholar.google.com/citations?user=OkwY0n4AAAAJ&hl=en" target="_blank">https://scholar.google.com/citations?user=OkwY0n4AAAAJ&hl=en</a>
+      </p>
+
+      <h2>🎓 教育经历</h2>
+      <ul>
+        <li>2019-2023年 山东大学 机电与信息工程学院 先进制造</li>
+        <li>2017-2019年 北京理工大学 自动化学院 控制工程</li>
+        <li>2013-2017年 北京化工大学 信息科学与技术学院 自动化</li>
+      </ul>
+
+      <h2>📢 最新消息</h2>
+      <ul>
+        <li>针对皮肤癌诊断的论文被国际期刊 <b>BSPC</b> 接受 （2025年10月12日）</li>
+      </ul>
+
+      <h2>📑 发表论文（节选）</h2>
+      <ol>
+        <li class="paper"><b>Yu Fu#</b>, Chao Liu, Shaoqiang Wang, Hui Xia*, “AdveDiffNet: Adversarial Diffusion Network for Unbalanced Melanoma Diagnosis,” <i>Biomedical Signal Processing and Control</i>, Oct 2025. <small>(SCI: IF=5.076, JCR Q1)</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Changli Liu, Shaoqiang Wang, Enqing Dong*, Hui Xia*, “SSAL-Net: Semi-supervised Network integrating Self-supervised Adversarial Learning for Diagnosing Subtypes of Pulmonary Nodules,” <i>Biomedical Signal Processing and Control</i>, Jun 2024. <small>(SCI: IF=5.076, JCR Q1)</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Peng Xue, Zhili Zhang, Enqing Dong*, “PKA2-Net: Prior Knowledge-based Attention Network for Accurate Pneumonia Diagnosis on Chest X-ray Image,” <i>IEEE Journal of Biomedical and Health Informatics</i>, April 2023. <small>(SCI: IF=7.021, JCR Q1)</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Hong Zhang, Peng Xue, Meirong Ren, Taohui Xiao, Zhili Zhang, Yong Huang, Enqing Dong*, “Qualitative Analysis of PD-L1 Expression in Non-Small-Cell Lung Cancer Based on Chest CT Radiomics,” <i>Biomedical Signal Processing and Control</i>, Online, March 2023. <small>(SCI: IF=5.076, JCR Q1)</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Peng Xue, Taohui Xiao, Zhili Zhang, Youren Zhang, Enqing Dong*, “Semi-Supervised Adversarial Learning for Improving the Diagnosis of Pulmonary Nodules,” <i>IEEE Journal of Biomedical and Health Informatics</i>, vol.27(1):109-120,2023. <small>(SCI: IF=7.021, JCR Q1) DOI:10.1109/JBHI.2022.3216446</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Peng Xue, Enqing Dong*, “Densely Connected Attention Network for Diagnosing COVID-19 Based on Chest CT,” <i>Computers in Biology and Medicine</i>, Volume 137, September 2021. <small>(SCI: IF=6.698, JCR Q1) DOI:10.1016/j.compbiomed.2021.104857</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Peng Xue#, Ning Li#, Peng Zhao, Zhuodong Xu, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Fusion of 3D Lung CT and Serum Biomarkers for Diagnosis of Multiple Pathological Types on Pulmonary Nodules,” <i>Computer Methods and Programs in Biomedicine</i>, Volume 210, October 2021. <small>(SCI: IF=7.022, JCR Q1) DOI:10.1016/j.cmpb.2021.106381</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Peng Xue#, Peng Zhao#, Ning Li, Zhuodong Xu, Huizhong Ji, Zhili Zhang, Wentao Cui*, Enqing Dong*, “3D multi-resolution deep learning model for diagnosis of multiple pathological types on pulmonary nodules” <i>International Journal of Imaging Systems and Technology</i>, vol.31, Online, 06 August 2021. <small>(SCI: IF=2.177, JCR Q3) DOI:10.1002/ima.22642</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Peng Xue#, Meirong Ren, Enqing Dong*, “Harmony Loss for Unbalanced Prediction,” <i>IEEE Journal of Biomedical and Health Informatics</i>, vol.26(2):828-83,2022. <small>(SCI: IF=7.021, JCR Q1) DOI:10.1109/JBHI.2021.3094578</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Peng Xue#, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Deep Model with Siamese Network for Viable and Necrotic Tumor Regions Assessment in Osteosarcoma,” <i>Medical Physics</i>, vol.47(10):4895-4905,2020. <small>(SCI: IF=4.506, JCR Q1) DOI:10.1002/mp.14397</small></li>
+
+        <li class="paper"><b>Yu Fu#</b>, Guoxiang Wang, Zhe An, Ting Dong, Zhifeng Gao*, “Automatic Colorization Based on Deep Learning,” International Symposium on Computational Intelligence and Industrial Applications, 2019. <small>(EI)</small></li>
+
+        <li class="paper"><b>Peng Xue#</b>, <b>Yu Fu#</b>, Jingyang Zhang, Lei Ma, Meirong Ren, Zhili Zhang, Enqing Dong*, “Effective lung ventilation estimation based on 4D CT image registration and supervoxels,” <i>Biomedical Signal Processing and Control</i>, vol.79, Online, 28 August 2022. <small>(SCI: IF=5.076, JCR Q1) DOI:10.1016/j.bspc.2022.104074 （共同一作）</small></li>
+
+        <li class="paper">Zhili Zhang#, Taohui Xiao#, <b>Yu Fu#</b>, Yuqiang Gao#, Meirong Ren, Wentao Cui*, Enqing Dong*, “3D Multi-Resolution Attention Capsule Network for Diagnosing Multi-Pathological Types of Pulmonary Nodules,” <i>International Journal of Imaging Systems and Technology</i>, vol.31, Online, 06 August 2021. <small>(SCI: IF=2.177, JCR Q3) DOI:10.1002/ima.22726 （共同一作）</small></li>
+
+        <li class="paper"><b>Peng Xue#</b>, <b>Yu Fu</b>, Huizhong Ji, Wentao Cui*, Enqing Dong*, “Lung Respiratory Motion Estimation Based on Fast Kalman Filtering and 4D CT Image Registration,” <i>IEEE Journal of Biomedical and Health Informatics</i>, vol.39, Oct. 2020. <small>(SCI: IF=7.021, JCR Q1) DOI:10.1109/JBHI.2020.3030071</small></li>
+      </ol>
+
+      <h2>📮 在投文章</h2>
+      <ul>
+        <li><b>Yu Fu#</b>, AdveDiffNet: Adversarial Diffusion Network for Unbalanced Melanoma Diagnosis.</li>
+      </ul>
+
+      <h2>🛡️ 发明专利</h2>
+      <ul>
+        <li>基于人工智能融合多模态信息构建肺结节良恶性的多种病理类型的诊断模型</li>
+        <li>基于三维深度学习网络预测肺结节良恶性的多病理类型的分类方法</li>
+        <li>基于卡尔曼滤波和4D CT 图像配准的肺部呼吸运动估计方法</li>
+        <li>构建肺结节良恶性的多种病理类型诊断模型的方法</li>
+      </ul>
+
+      <h2>🎖️ 荣誉奖励</h2>
+      <ul>
+        <li>2021年 山东省优秀研究生</li>
+        <li>2021年 山东大学校长奖</li>
+        <li>2020、2021年 连续两次获得国家奖学金</li>
+        <li>2019至今 山东大学优秀研究生标兵、山东大学优秀研究生等</li>
+      </ul>
+
+      <h2>🚀 项目研究</h2>
+      <ul>
+        <li>基于深度学习的肺癌亚型诊断与预后预测关键技术研究（山东省自科青年基金，主持）</li>
+        <li>基于人工智能的肺癌诊疗方法研究（国家资助博士后研究人员计划B档，主持）</li>
+        <li>基于扩散学习的复杂肺结节检测关键技术研究（博后面上，主持）</li>
+        <li>应用人工智能和融合多模态信息构建肺结节良恶性的多种病理类型辅助诊断模型的关键技术研究（面上项目，除导师外第一参与人）</li>
+        <li>肺部4D CT图像的高精度非刚性配准算法研究（面上项目，参与）</li>
+      </ul>
+
+    </div>
+
+    <div class="footer">
+      以上信息由作者提供 如需引用请联系邮箱 <a href="mailto:fuyu@ouc.edu.cn">fuyu@ouc.edu.cn</a>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>
