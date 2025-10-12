@@ -22,6 +22,8 @@
     display:flex;gap:30px;padding:36px 40px;background:linear-gradient(90deg,#eaf4ff, #ffffff);
     flex-wrap:wrap;align-items:center;
   }
+  .news { color: #d32f2f; font-weight: bold; }  /* 最新消息红色加粗 */
+  .journal { color: #c62828; font-weight: 600; }  /* 期刊名称红色 */
   .left{flex:1;min-width:240px;}
   .name{font-size:34px;color:var(--primary);margin:0 0 8px 0;font-weight:700;letter-spacing:1px;}
   .sub{font-size:15px;color:var(--muted);margin:0 0 16px 0;}
@@ -87,14 +89,13 @@
         <li>2013-2017年 北京化工大学 信息科学与技术学院 自动化</li>
       </ul>
 
-      <h2>📢 最新消息</h2>
-      <ul>
-        <li>针对皮肤癌诊断的论文被国际期刊 <b>BSPC</b> 接受 （2025年10月12日）</li>
-      </ul>
+      
+      <h3>📢 最新消息</h3>
+      <p class="news">1. 针对皮肤癌诊断的论文被国际期刊 <b><i>BSPC</i></b> 接受！ (2025年10月12日)</p>
 
       <h2>📑 发表论文（节选）</h2>
       <ol>
-        <li class="paper"><b>Yu Fu#</b>, Chao Liu, Shaoqiang Wang, Hui Xia*, “AdveDiffNet: Adversarial Diffusion Network for Unbalanced Melanoma Diagnosis,” <i>Biomedical Signal Processing and Control</i>, Oct 2025. <small>(SCI: IF=5.076, JCR Q1)</small></li>
+        <li class="paper"><b>Yu Fu#</b>, Chao Liu, Shaoqiang Wang, Hui Xia*, “AdveDiffNet: Adversarial Diffusion Network for Unbalanced Melanoma Diagnosis,” <span class="journal"><i>Biomedical Signal Processing and Control</i></span>, Oct 2025. <small>(SCI: IF=5.076, JCR Q1)</small></li>
 
         <li class="paper"><b>Yu Fu#</b>, Changli Liu, Shaoqiang Wang, Enqing Dong*, Hui Xia*, “SSAL-Net: Semi-supervised Network integrating Self-supervised Adversarial Learning for Diagnosing Subtypes of Pulmonary Nodules,” <i>Biomedical Signal Processing and Control</i>, Jun 2024. <small>(SCI: IF=5.076, JCR Q1)</small></li>
 
